@@ -1,0 +1,7 @@
+interface:
+  display_name: "苏西 Seedance 对标换人换品"
+  short_description: "拆解对标视频，生成换人换装换品参考图，并编译专业 Seedance 提示词"
+  default_prompt: "使用 $suxi-seedance-remix 拆解我的对标视频并替换人物、服装或产品。"
+
+policy:
+  allow_implicit_invocation: true
